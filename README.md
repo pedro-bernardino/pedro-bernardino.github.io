@@ -1,6 +1,6 @@
 # Engineer
 
-#### Technical Skills: Python, Java, Docker
+#### Technical Skills: Civil Engineering, Python, Java, Docker
 
 ## Education
 - M.Sc. Civil Engineering, Urban Construction 
