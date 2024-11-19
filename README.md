@@ -1,6 +1,10 @@
 # Engineer
 
-#### Technical Skills: Civil Engineering, Python, Java, Docker
+#### Technical Skills: Civil Engineering, Java, Python, Docker
+
+## Certifications
+- [Oracle Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C77E5CCC29E72ADDD633CBB7C0BE9AF8EF43004F212A29A17FE0B9DF29639D75), Java SE 8 Programmer 
+  + Issued by Oracle (_2024_)
 
 ## Education
 - M.Sc. Civil Engineering, Urban Construction 
