@@ -9,7 +9,9 @@ Self-motivated and adaptable Junior Developer with a passion for technology and 
 
 Starting with hands-on projects in embedded systems using Arduino, I expanded my expertise into Python for data scraping and automation, iOS and macOS development with Swift, and server technologies like Proxmox and Docker for virtualization and containerization.<br>
 
-My self-learning journey culminated in earning the Oracle Certified Associate (OCA) Java SE certification, enhancing my understanding of object-oriented programming and application development. Enthusiastic about solving real-world problems through code, I’m committed to continuous growth, exploring emerging technologies, and building efficient, scalable solutions.
+My self-learning journey culminated in earning the Oracle Certified Associate (OCA) Java SE certification, enhancing my understanding of object-oriented programming and application development. 
+
+Enthusiastic about solving real-world problems through code, I’m committed to continuous growth, exploring emerging technologies, and building efficient, scalable solutions.
 
 
 ## <span style="color:#0984e3">**Education and Certifications**</span>
