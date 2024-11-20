@@ -1,4 +1,3 @@
-Arganil, Coimbra, Portugal<br>
 [linkedin.com/in/pedro--bernardino](https://www.linkedin.com/in/pedro--bernardino/)<br>
 [github.com/pedro-bernardino](https://github.com/pedro-bernardino)
 
