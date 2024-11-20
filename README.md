@@ -35,7 +35,7 @@ Enthusiastic about solving real-world problems through code, I’m committed to 
 ## <span style="color:#0984e3">**Technologies and Languages**</span>
 
 - **Arduino** (Microcontroller, Electronics, **C/C++**)
-- **Web Scraping** (Libraries like BeautifulSoup or Scrapy in **Python**)
+- **Web Scraping** (Selenium, Spynner in **Python**)
 - **macOS Development** (Xcode, Objective-C, **Swift**)
 - **Betfair API** (API integration, Objective-C, **Swift**)
 - **iOS Development** (Xcode, Objective-C, **Swift**)
